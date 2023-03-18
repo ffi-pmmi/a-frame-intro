@@ -1,0 +1,11 @@
+Model Information:
+* title:	MY CAR
+* source:	https://sketchfab.com/3d-models/my-car-a1569ea19e6b4c1d8ff9838a5b750fad
+* author:	keremturkn (https://sketchfab.com/keremturkn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MY CAR" (https://sketchfab.com/3d-models/my-car-a1569ea19e6b4c1d8ff9838a5b750fad) by keremturkn (https://sketchfab.com/keremturkn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
